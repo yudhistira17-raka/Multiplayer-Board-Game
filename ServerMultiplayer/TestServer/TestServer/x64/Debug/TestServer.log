@@ -1,0 +1,7 @@
+﻿  Server.cpp
+E:\SKRIPSI Operation\TestServer\TestServer\Server.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\SKRIPSI Operation\TestServer\TestServer\Server.cpp(90,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\SKRIPSI Operation\TestServer\TestServer\Server.cpp(124,24): warning C4018: '<': signed/unsigned mismatch
+E:\SKRIPSI Operation\TestServer\TestServer\Server.cpp(133,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\SKRIPSI Operation\TestServer\TestServer\Server.cpp(155,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TestServer.vcxproj -> E:\SKRIPSI Operation\TestServer\x64\Debug\TestServer.exe

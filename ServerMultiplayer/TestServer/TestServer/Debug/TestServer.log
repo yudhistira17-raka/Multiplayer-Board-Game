@@ -1,0 +1,4 @@
+﻿  Server.cpp
+E:\SKRIPSI Operation\TestServer\TestServer\Server.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\SKRIPSI Operation\TestServer\TestServer\Server.cpp(177,25): warning C4018: '<': signed/unsigned mismatch
+  TestServer.vcxproj -> E:\SKRIPSI Operation\TestServer\Debug\TestServer.exe
